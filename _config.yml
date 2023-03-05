@@ -82,22 +82,22 @@ analytics:
 # Site Author
 author:
   name             : "Hamidreza Ramezanikebrya"
-  avatar           : "1.jpg"
+  avatar           : "2.jpg"
   bio              : "Master's student in ECE at UBC"
-  location         : "Vancouver"
+  location         : 
   employer         : "The University of British Columbia"
   pubmed           : 
   googlescholar    : 
   email            : "hamid@ece.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "https://bitbucket.org/ramezanikebrya/"
+  bitbucket        : "ramezanikebrya"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Hamidreza-Ramezani/"
+  github           : "Hamidreza-Ramezani"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    :  "https://stackoverflow.com/users/7209511/h-ramezani"
+  stackoverflow    : "7209511"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"

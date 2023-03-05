@@ -29,22 +29,6 @@ Recent News
 
 Publications
 ======
-Ilia Markov, **Hamidreza Ramezanikebrya**, and Dan Alistarh, [CGX: Adaptive System Support for Communication-Efficient Deep Learning.](https://dl.acm.org/doi/10.1145/3528535.3565248) In 23rd International Middleware Conference (Middleware’22), November 7-11, 2022, ***Best paper award ***.******
-
-
-Collaborators  and Friends of the Lab
-======
-
-- [Prof. Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-- [Dr. Kimon Antonakopoulos](https://people.epfl.ch/kimon.antonakopoulos?lang=en)
-- [Prof. Volkan Cevher](https://people.epfl.ch/volkan.cevher?lang=en)
-- [Dr. Grigorios Chrysos](https://people.epfl.ch/grigorios.chrysos?lang=en)
-- [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong?pli=1) 
-- [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/) 
-- [Dr. Fanghui Liu](https://people.epfl.ch/fanghui.liu?lang=en)
-- [Prof. Petar Popovski](http://petarpopovski.es.aau.dk/)
-- [Prof. Daniel M. Roy](http://danroy.org/)
-
-
+Ilia Markov, **Hamidreza Ramezanikebrya**, and Dan Alistarh, [CGX: Adaptive System Support for Communication-Efficient Deep Learning.](https://dl.acm.org/doi/10.1145/3528535.3565248) In 23rd International Middleware Conference (Middleware’22), November 7-11, 2022, ***Best paper award***.
 
 
