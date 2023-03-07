@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p> I am a master's student in the Electrical and Computer Engineering department at The University of British Columbia (UBC), working with Prof. Matei Ripeanu. Before starting my graduate studies in Canada, I worked for a year as a research intern at IST Austria, where I was hosted by Prof. Dan Alistarh. Prior to that, I was an intern at EPFL where I was fortunate to be advised by Dr. Mirjana Stojilovic and Prof. Paolo Ienne. I did my undergraduate studies at Amirkabir University of Technology (Tehran Polytechnic). </p> 
+<p> I am a master's student in the Electrical and Computer Engineering department at The University of British Columbia (UBC), working with Prof. Matei Ripeanu. Before starting my graduate studies in Canada, I worked for a year as a research intern at IST Austria, where I was hosted by Prof. Dan Alistarh. Prior to that, I did an internship at EPFL under the guidance of Dr. Mirjana Stojilovic and Prof. Paolo Ienne. I did my undergraduate studies at Amirkabir University of Technology (Tehran Polytechnic). </p> 
 
 <p> My current research lies in High-performance computing and its application to genome analysis. In particular, I study different approaches to accelerate DNA sequence alignment by employing available and emerging technologies like Processing-in-Memory (PIM). Some other areas of my interest are performance analysis, large-scale parallel computing, edge computing, and federated learning.</p>
 
