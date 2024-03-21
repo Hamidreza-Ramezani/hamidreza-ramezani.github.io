@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hamidreza Ramezani-kebrya"
+title: "Hamidreza Ramezani-Kebrya"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
