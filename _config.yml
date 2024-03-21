@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Hamidreza Ramezanikebrya"
+name                     : &name "Hamidreza Ramezani-Kebrya"
 description              : &description "Graduate student at the University of British Columbia"
 url                      : https://hamidreza-ramezani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hamidreza Ramezanikebrya"
-  avatar           : "5.jpg"
+  name             : "Hamidreza Ramezani-Kebrya"
+  avatar           : "6.png"
   bio              : "Master's student in ECE at UBC"
   location         : 
   employer         : "The University of British Columbia"
