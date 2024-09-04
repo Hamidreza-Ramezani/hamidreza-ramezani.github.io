@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News
 ======
+- August 2024: Our PiM paper was nominated for Best Paper Award (top 6 papers) at Euro-Par 2024.
+- April 2024: Our paper "(re)Assessing PiM Effectiveness for Sequence Alignment" was accepted at Euro-Par 2024. 
 - May 2023: I started my internship at TELUS.
 - November 2022: Our CGX paper was chosen as Best Paper Award Runner-up at Middleware 2022. 
 - Jan 2022: I became a member of [ NetSysLab](http://netsyslab.ece.ubc.ca/).
@@ -30,6 +32,8 @@ Recent News
 
 Publications
 ======
-Ilia Markov, **Hamidreza Ramezanikebrya**, and Dan Alistarh, [CGX: Adaptive System Support for Communication-Efficient Deep Learning.](https://dl.acm.org/doi/10.1145/3528535.3565248) In 23rd International Middleware Conference (Middleware’22), November 7-11, 2022, ***Best paper award***.
+**Hamidreza Ramezanikebrya** and Matei Ripeanu, [(re)Assessing PiM Effectiveness for Sequence Alignment.](https://doi.org/10.1007/978-3-031-69766-1_11) In 30th International European Conference on Parallel and Distributed Computing (Euro-Par 2024), August 26-30, 2024, ***Best Paper Award Nominee***.
+
+Ilia Markov, **Hamidreza Ramezanikebrya**, and Dan Alistarh, [CGX: Adaptive System Support for Communication-Efficient Deep Learning.](https://dl.acm.org/doi/10.1145/3528535.3565248) In 23rd International Middleware Conference (Middleware 2022), November 7-11, 2022, ***Best Paper Award Runner-up***.
 
 
