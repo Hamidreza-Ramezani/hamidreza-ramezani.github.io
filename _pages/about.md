@@ -12,8 +12,8 @@ redirect_from:
 
 <p> My research focused on high-performance computing and its application to genome analysis. Specifically, I explored approaches to accelerate DNA sequence alignment by leveraging available and emerging technologies such as Processing-in-Memory (PIM). Other areas of interest include distributed systems, federated learning, performance analysis, and edge computing.</p>
 
-<p style="color:red; font-weight:bold;">🌟 Actively Seeking Opportunities</p>
-*I am currently looking for full-time Software Engineering roles. Feel free to reach out if you have opportunities that align with my background!*
+<p style="color:red; font-weight:bold;">🌟 Actively Seeking Opportunities:
+ *I am currently looking for full-time Software Engineering roles. Feel free to reach out if you have opportunities that align with my background!* </p>
 
 -----
 
