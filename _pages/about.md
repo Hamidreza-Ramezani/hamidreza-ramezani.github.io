@@ -45,5 +45,5 @@ Ilia Markov, **Hamidreza Ramezanikebrya**, and Dan Alistarh, [CGX: Adaptive Syst
 
 Thesis
 ======
-**Hamidreza Ramezanikebrya**, [Reassessing Processing-in-Memory Effectiveness: A Case Study with Sequence Alignment.](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447398) Master’s Thesis, The University of British Columbia, 2024.
+**Hamidreza Ramezanikebrya**, [PiMPACT : (re)assessing PiM impact](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447398) Master’s Thesis, The University of British Columbia, 2024.
 
