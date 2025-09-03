@@ -41,3 +41,9 @@ Publications
 Ilia Markov, **Hamidreza Ramezanikebrya**, and Dan Alistarh, [CGX: Adaptive System Support for Communication-Efficient Deep Learning.](https://dl.acm.org/doi/10.1145/3528535.3565248) In 23rd International Middleware Conference (Middleware 2022), November 7-11, 2022, ***Best Paper Award Runner-up***.
 
 
+-----
+
+Thesis
+======
+**Hamidreza Ramezanikebrya**, [Reassessing Processing-in-Memory Effectiveness: A Case Study with Sequence Alignment.](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447398) Master’s Thesis, The University of British Columbia, 2024.
+
