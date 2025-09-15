@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p> I recently completed my master's degree in the Electrical and Computer Engineering department at The University of British Columbia (UBC), where I worked with Prof. Matei Ripeanu. During my graduate studies at UBC, I completed an 8-month internship at TELUS and MobileLIVE as a Software Engineer. Before starting my graduate studies in Canada, I worked for a year as a research intern at IST Austria, hosted by Prof. Dan Alistarh. Prior to that, I interned at EPFL under the guidance of Dr. Mirjana Stojilovic and Prof. Paolo Ienne. I completed my undergraduate studies at Amirkabir University of Technology (Tehran Polytechnic).</p> 
+<p> I recently completed my master's degree in the Electrical and Computer Engineering department at The University of British Columbia (UBC). During my graduate studies at UBC, I completed an 8-month internship at TELUS and MobileLIVE as a Software Engineer. Before starting my graduate studies in Canada, I worked for a year as a research intern at IST Austria, hosted by Prof. [Dan Alistarh](https://daslab.pages.ista.ac.at/). Prior to that, I interned at EPFL under the guidance of Dr. [Mirjana Stojilovic](https://mirjanastojilovic.github.io/) and Prof. [Paolo Ienne](https://people.epfl.ch/paolo.ienne). I completed my undergraduate studies at Amirkabir University of Technology (Tehran Polytechnic).</p> 
 
 <p> My research focused on high-performance computing and its application to genome analysis. Specifically, I explored approaches to accelerate DNA sequence alignment by leveraging available and emerging technologies such as Processing-in-Memory (PIM). Other areas of interest include distributed systems, federated learning, performance analysis, and edge computing.</p>
 
